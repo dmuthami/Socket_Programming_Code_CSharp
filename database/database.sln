@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "database", "database.csproj", "{10F8E0B2-67A4-4681-B8BB-9AEB45BA566D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{10F8E0B2-67A4-4681-B8BB-9AEB45BA566D}.Debug.ActiveCfg = Debug|.NET
+		{10F8E0B2-67A4-4681-B8BB-9AEB45BA566D}.Debug.Build.0 = Debug|.NET
+		{10F8E0B2-67A4-4681-B8BB-9AEB45BA566D}.Release.ActiveCfg = Release|.NET
+		{10F8E0B2-67A4-4681-B8BB-9AEB45BA566D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
